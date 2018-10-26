@@ -1,0 +1,9 @@
+[submodule "git-submodule-1"]
+	path = git-submodule-1
+	url = https://github.com/yishaiz/git-submodule-1.git
+[submodule "git-submodule-2"]
+	path = git-submodule-2
+	url = https://github.com/yishaiz/git-submodule-2.git
+[submodule "git-sharedmodule"]
+	path = git-sharedmodule
+	url = https://github.com/yishaiz/git-sharedmodule.git
